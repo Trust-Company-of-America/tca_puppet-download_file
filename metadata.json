@@ -1,12 +1,12 @@
 {
-  "name": "tca_puppet_download_file",
-  "version": "4.0.2",
+  "name": "tca_puppet-download_file",
+  "version": "4.0.3",
   "author": "Vox Pupuli",
   "license": "MIT",
   "summary": "A module that will download files for use on Windows servers. Requires the server to have PowerShell 2.0 and above",
-  "source": "https://github.com/Trust-Company-of-America/tca_puppet_download_file",
-  "project_page": "https://github.com/Trust-Company-of-America/tca_puppet_download_file",
-  "issues_url": "https://github.com/voxpupuli/puppet-download_file/issues",
+  "source": "https://github.com/Trust-Company-of-America/tca_puppet-download_file",
+  "project_page": "https://github.com/Trust-Company-of-America/tca_puppet-download_file",
+  "issues_url": "https://github.com/voxpupuli/puppet-download-file/issues",
   "tags": [
     "windows",
     "utility"
